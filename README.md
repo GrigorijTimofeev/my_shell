@@ -6,3 +6,5 @@ It has representation of terminal shell functionalities< such as:
 - pipes
 - redirects
 - enviroment variables
+
+For starting type `make` in the directory of a project
